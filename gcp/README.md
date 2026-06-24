@@ -10,7 +10,7 @@ gcp/
 └── resources/     # GCP resource creation (VPC, compute, storage)
 ```
 
-## Getting Started 
+## Getting Started   
 
 ```bash
 # Authenticate
