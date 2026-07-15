@@ -5,7 +5,7 @@ Terraform code samples for **Google Cloud   Platform (GCP)** infrastructure prov
 
 ## Directory Structure
 
-```
+``` 
 gcp/ 
 └── resources/     # GCP resource creation (VPC, compute, storage)
 ```
